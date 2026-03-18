@@ -1,0 +1,9 @@
+{
+	"name": "df-nareshproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b66f023-1ff2-4283-9378-85e234a95b7c",
+		"tenantId": "5ac77aa6-67e9-4536-a3b3-3f01c78c1814"
+	}
+}
